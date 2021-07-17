@@ -1,6 +1,6 @@
 # Project_2 - Data Science Job Postings
 
-## Dalton, Harika, Jucari, Yuting, Clay
+## Dalton, Harika, Jucary, Yuting, Clay
 
 
 
