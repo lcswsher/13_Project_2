@@ -1,6 +1,18 @@
-# Data Science Job Postings Final Report
 
+# Data Science Job Postings Project 2
 ## Dalton, Harika, Jucary, Yuting, Clay
+
+
+## Project Proposal 
+
+ 
+
+
+
+
+
+## Final Report
+
 
 
 We decided to do our research and gather data to figure what salary options Data Scientist have based on different companies. 
