@@ -7,7 +7,7 @@ DROP TABLE IF EXISTS glassdoor;
 -- 1) Creating Job_Post Table
 
 CREATE TABLE job_post(
-	item int (25),
+	item varchar(25),
 	company_name varchar(250),
 	job_title varchar(300),
 	primary key (item)
