@@ -1,6 +1,15 @@
-# Project_2 - Data Science Job Postings
+# Project_2 - Data Science Job Postings FInal Report
 
 ## Dalton, Harika, Jucary, Yuting, Clay
+
+
+We decided to do our research and gather data to figure what salary options Data Scientist have based on different companies. 
+
+The original data sources we based our analysis are from Glassdoor and Data Scientist Job Postings from U.S. We pulled this data from Kaggle.
+
+First, we decided to clean data from the data scientist file by eliminating duplicate companies. 
+
+From Glassdoor the data was combined based in companies names and merged to see the salries. 
 
 
 
@@ -14,9 +23,6 @@ https://data.world/jobspikr/10000-data-scientist-job-postings-from-the-usa
 
 https://www.kaggle.com/milan400/glassdoordata-scientist?select=glassdoor.csv
 
-### 3) Data Scientist Job Market in the U.S
-
-https://www.kaggle.com/sl6149/data-scientist-job-market-in-the-us
 
 
 
