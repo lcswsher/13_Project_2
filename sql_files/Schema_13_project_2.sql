@@ -7,7 +7,7 @@ DROP TABLE IF EXISTS glassdoor;
 -- 1) Creating Job_Post Table
 
 CREATE TABLE job_post(
-	item varchar(25),
+	item int (25),
 	company_name varchar(250),
 	job_title varchar(300),
 	primary key (item)
@@ -23,8 +23,6 @@ CREATE TABLE glassdoor(
 
 -- ALTER TABLE job_post ADD CONSTRAINT fk_company_name FOREIGN KEY(company_name)
 -- REFERENCES glassdoor (company_name);
-
-
 
 
 
