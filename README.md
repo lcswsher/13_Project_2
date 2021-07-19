@@ -9,7 +9,7 @@ The original data sources we based our analysis are from Glassdoor and Data Scie
 
 First, we decided to clean data from the data scientist file by eliminating duplicate companies. 
 
-From Glassdoor the data was combined based in companies names and merged to see the salries. 
+From Glassdoor the data was combined based in companies names and merged to see the salaries. 
 
 
 
