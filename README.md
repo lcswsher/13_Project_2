@@ -1,4 +1,4 @@
-# Project_2 - Data Science Job Postings FInal Report
+# Data Science Job Postings Final Report
 
 ## Dalton, Harika, Jucary, Yuting, Clay
 
