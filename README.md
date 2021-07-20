@@ -27,6 +27,9 @@ The original data sources we based our analysis are from Glassdoor and Data Scie
 
 2. From Glassdoor the data was combined based in companies names and merged to see the salaries. 
 
+![image](https://user-images.githubusercontent.com/82185341/126245641-515edaca-d66d-44c1-8b64-31b287ae8983.png)
+
+
 3. After merging the two databases we were able to match out of 2894 companies 73 companies and their salaries.
 
 
