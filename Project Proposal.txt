@@ -1,0 +1,37 @@
+# Data Science Job Postings - Project 2
+
+## Team - Dalton, Harika, Jucary, Yuting, Clay
+
+
+
+## Project Proposal 
+
+The goal for this project is to extract, transform and load the data we found for jobs in the field of Data Science. Our project started with the idea of finding salary information for the job posts made on different platforms.
+
+The ETL process is composed of Extract, Transform, and Load into a SQL database. 
+
+All members will be using Pandas to clean the data in both files gathered, and merge into one table to retrieve salary information for job posts where they are not available.
+
+The project has two data files:
+
+- **Job Postings csv** - Contains job posts by different companies with most of them without salary information
+- **Glassdoor csv** - Contains Salary Information for Data Science jobs for companies
+
+The cleanup of these two files was important to map the salary information from the Glassdoor csv to Job Postings csv for the data to merge on a single column ('Company Name')
+
+**Findings during extraction** - Job postings csv had 10,000+ rows with below columns and had redundant data. For eg: there were rows with negative employees, long description in job titles & company names, repeating words in company names along with symbols and unnecessary spaces. 
+
+![Screen Shot 2021-07-19 at 9.22.40 PM](C:\Users\sreek\Downloads\Screen Shot 2021-07-19 at 9.22.40 PM.png)
+
+![image](C:\Users\sreek\Downloads\image.png)
+
+
+
+
+
+#### Source Data (csv) used for the project:
+
+### [Data Scientist Job Postings](https://data.world/jobspikr/10000-data-scientist-job-postings-from-the-usa)
+
+
+### [Glass Door Data Scientist Data](https://www.kaggle.com/milan400/glassdoordata-scientist?select=glassdoor.csv)
