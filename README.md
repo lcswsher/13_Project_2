@@ -52,6 +52,37 @@ Thanks to this merge we were able to identify the top 5 high paying companies on
 ### [Glass Door Data Scientist Data](https://www.kaggle.com/milan400/glassdoordata-scientist?select=glassdoor.csv)
 
 
+### TRANSFORM
+
+The two raw csv files were not originally formatted properly to be loaded into the relational database. Therefore the team embarked on a wonderful data transformation journey.
+
+For the job post csv the following tasks were accomplished to transform the data:
+
+1. NA values were dropped
+2. Job Title was filtered for Data Scientist (originally contained Analyst roles as well as Data engineering)
+3. Company names were cleaned. The team decided to titlecase all company names for consistency as well as remove corporate tags such as INC, inc, LLC, etc.
+4. The data was grouped by company name to prepare for joining in the database.
+5. Output new dataframe as csv for data loading into relational database.
+
+
+For the glassdoor job posts csv the following tasks were accomplished to transform the data:
+1. Unnessary columns outside the scope of the project were dropped first.
+2. Duplicate company name rows were dropped
+3. Company Name column strings were filtered (all contained unnecessary numeric data)
+4. Company Name column also had corporate tags removed and was title cased.
+5. Salary Estimate column was cleaned and formatted to the team's liking.
+6. Output new dataframe as csv for data loading into relational database.
+
+### LOAD
+
+The final database was contructed with 2 tables. 
+
+1. Job Post table:
+Contains loaded data from job posts csv. (Companry Name as fk, and job title)
+
+
+2. Glassdoor table:
+Contains loaded data from glassdoor csv. (Company Name as pk, and Salary Range)
 
 
 
