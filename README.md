@@ -22,6 +22,9 @@ The original data sources we based our analysis are from Glassdoor and Data Scie
 
 1. We decided to be specific with the job titles and work with only Data Scientist. After that was a success we moved on to companies names and eliminated duplicate companies names, the splitting method was used to have the code be succesful. 
 
+![image](https://user-images.githubusercontent.com/82185341/126244962-b551178b-f948-43b4-81d3-26e43214c233.png)
+
+
 2. From Glassdoor the data was combined based in companies names and merged to see the salaries. 
 
 3. After merging the two databases we were able to match 74 job companies and their salaries.
