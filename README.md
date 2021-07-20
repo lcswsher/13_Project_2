@@ -44,15 +44,6 @@ From this data we were able to show the data scientist job posting by company na
 
 3. After merging the two databases we were able to match out of 2894 companies 73 companies and their salaries.
 
-Thanks to this merge we were able to identify the top 5 high paying companies on average for Data Scientist. 
-
-![image](https://user-images.githubusercontent.com/82185341/126246927-6b73869e-b54d-4848-80b4-af94f1829e8d.png)
-![image](https://user-images.githubusercontent.com/82185341/126247030-f87ea220-38b3-478f-ae4c-13949b89d5d0.png)
-![image](https://user-images.githubusercontent.com/82185341/126246567-71f1a862-7a77-459f-b91e-26431c8aba76.png)
-![image](https://user-images.githubusercontent.com/82185341/126246621-94f232bb-6b13-4198-b1ac-f24b06619c83.png)
-
-
-
 
 ### TRANSFORM
 
