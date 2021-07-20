@@ -33,6 +33,7 @@ The original data sources we based our analysis are from Glassdoor and Data Scie
 1. We decided to be specific with the job titles and work with only Data Scientist. After that was a success we moved on to companies names and eliminated duplicate companies names, the splitting method was used to have the code be succesful. 
 
 ![image](https://user-images.githubusercontent.com/82185341/126244962-b551178b-f948-43b4-81d3-26e43214c233.png)
+![image](https://user-images.githubusercontent.com/82185341/126254819-c431d9f2-7381-4225-8db4-3e49cc9e746e.png)
 
 From this data we were able to show the data scientist job posting by company names.
 
