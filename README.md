@@ -79,6 +79,7 @@ Contains loaded data from glassdoor csv. (Company Name as pk, and Salary Range)
 
 
 
+![image](https://user-images.githubusercontent.com/82185341/126254575-3e47dfe3-0bc3-4ef4-8e0f-c39fbcba2033.png)
 
 
 
