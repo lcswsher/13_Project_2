@@ -35,7 +35,7 @@ The original data sources we based our analysis are from Glassdoor and Data Scie
 Thanks to this merge we were able to identify the top 5 high paying companies on average for Data Scientist. 
 
 ![image](https://user-images.githubusercontent.com/82185341/126246927-6b73869e-b54d-4848-80b4-af94f1829e8d.png)
-![image](https://user-images.githubusercontent.com/82185341/126246517-64423fb4-de2f-45ef-8e11-5557bbaecde5.png)
+![image](https://user-images.githubusercontent.com/82185341/126247030-f87ea220-38b3-478f-ae4c-13949b89d5d0.png)
 ![image](https://user-images.githubusercontent.com/82185341/126246567-71f1a862-7a77-459f-b91e-26431c8aba76.png)
 ![image](https://user-images.githubusercontent.com/82185341/126246621-94f232bb-6b13-4198-b1ac-f24b06619c83.png)
 ![image](https://user-images.githubusercontent.com/82185341/126246663-fd0951eb-6005-44c1-8091-8718c06a9442.png)
