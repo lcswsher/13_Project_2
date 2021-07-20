@@ -68,7 +68,7 @@ For the glassdoor job posts csv the following tasks were accomplished to transfo
 
 ### LOAD
 
-The final database was contructed with 2 tables. 
+The final database contains two tables. 
 
 1. Job Post table:
 Contains loaded data from job posts csv. (Companry Name as fk, and job title)
