@@ -18,7 +18,7 @@ order by j.company_name;
 select j.company_name as "Company Name", g.salary_range as "Salary Ranges"
 from job_post as j
 join glassdoor as g on g.company_name = j.company_name
-order by g.company_name;
+order by g.company_name; 
 
 
 
