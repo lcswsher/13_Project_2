@@ -9,7 +9,8 @@ The ETL process is composed of Extract, Transform, and Load subprocesses.
  
 All members will be using Pandas to clean the data, final cleaning and merging into one table using Pandas.
 
-
+Proposal:
+The goal for this project is to extract, transform and load the data we found for jobs in the field of Data Science. Our project started with the idea of finding salary information for the job posts made on different platforms.
 
 
 ## Project Report
