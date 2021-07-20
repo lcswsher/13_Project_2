@@ -3,16 +3,6 @@
 ## Dalton, Harika, Jucary, Yuting, Clay
 
 
-## Project Proposal 
-
-The ETL process is composed of Extract, Transform, and Load subprocesses. 
- 
-All members will be using Pandas to clean the data, final cleaning and merging into one table using Pandas.
-
-Proposal:
-The goal for this project is to extract, transform and load the data we found for jobs in the field of Data Science. Our project started with the idea of finding salary information for the job posts made on different platforms.
-
-
 ## Project Report
 
 ### EXTRACT
@@ -28,9 +18,9 @@ The goal for this project is to extract, transform and load the data we found fo
 
 We decided to do our research and gather data to figure what salary options Data Scientist have based on different companies. 
 
-The original data sources we based our analysis are from Glassdoor and Data Scientist Job Postings from U.S. We pulled this data from Kaggle.
+The original data sources we based our ETL are from Glassdoor and Data Scientist Job Postings from U.S. We pulled this data from Kaggle.
 
-1. We decided to be specific with the job titles and work with only Data Scientist. After that was a success we moved on to companies names and eliminated duplicate companies names, the splitting method was used to have the code be succesful. 
+1. We decided to be specific with the job titles and work with only Data Scientist. After that was a success we moved on to companies names and eliminated duplicate companies names, the splitting method was used to have the code be successful. 
 
 ![image](https://user-images.githubusercontent.com/82185341/126244962-b551178b-f948-43b4-81d3-26e43214c233.png)
 ![image](https://user-images.githubusercontent.com/82185341/126254819-c431d9f2-7381-4225-8db4-3e49cc9e746e.png)
@@ -60,7 +50,7 @@ For the job post csv the following tasks were accomplished to transform the data
 
 
 For the glassdoor job posts csv the following tasks were accomplished to transform the data:
-1. Unnessary columns outside the scope of the project were dropped first.
+1. Unnecessary columns outside the scope of the project were dropped first.
 2. Duplicate company name rows were dropped
 3. Company Name column strings were filtered (all contained unnecessary numeric data)
 4. Company Name column also had corporate tags removed and was title cased.
