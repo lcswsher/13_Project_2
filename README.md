@@ -24,6 +24,8 @@ The original data sources we based our analysis are from Glassdoor and Data Scie
 
 ![image](https://user-images.githubusercontent.com/82185341/126244962-b551178b-f948-43b4-81d3-26e43214c233.png)
 
+From this data we were able to show the job posting by comapany names for Data Scientist.
+
 
 2. From Glassdoor the data was combined based in companies names and merged to see the salaries. 
 
