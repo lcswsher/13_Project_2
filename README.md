@@ -14,6 +14,15 @@ All members will be using Pandas to clean the data, final cleaning and merging i
 
 ## Project Report
 
+### EXTRACT
+
+
+### Source Data (csv):
+
+### [Data Scientist Job Postings](https://data.world/jobspikr/10000-data-scientist-job-postings-from-the-usa)
+
+
+### [Glass Door Data Scientist Data](https://www.kaggle.com/milan400/glassdoordata-scientist?select=glassdoor.csv)
 
 
 We decided to do our research and gather data to figure what salary options Data Scientist have based on different companies. 
@@ -40,16 +49,8 @@ Thanks to this merge we were able to identify the top 5 high paying companies on
 ![image](https://user-images.githubusercontent.com/82185341/126247030-f87ea220-38b3-478f-ae4c-13949b89d5d0.png)
 ![image](https://user-images.githubusercontent.com/82185341/126246567-71f1a862-7a77-459f-b91e-26431c8aba76.png)
 ![image](https://user-images.githubusercontent.com/82185341/126246621-94f232bb-6b13-4198-b1ac-f24b06619c83.png)
-![image](https://user-images.githubusercontent.com/82185341/126246663-fd0951eb-6005-44c1-8091-8718c06a9442.png)
 
 
-
-### Source Data (csv):
-
-### [Data Scientist Job Postings](https://data.world/jobspikr/10000-data-scientist-job-postings-from-the-usa)
-
-
-### [Glass Door Data Scientist Data](https://www.kaggle.com/milan400/glassdoordata-scientist?select=glassdoor.csv)
 
 
 ### TRANSFORM
