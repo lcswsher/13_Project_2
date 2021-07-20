@@ -6,7 +6,7 @@
 ## Project Proposal 
 
 The ETL process is composed of Extract, Transform, and Load subprocesses. 
- 
+
 All members will be using Pandas to clean the data, final cleaning and merging into one table using Pandas.
 
 Proposal:
@@ -32,15 +32,15 @@ The original data sources we based our analysis are from Glassdoor and Data Scie
 
 1. We decided to be specific with the job titles and work with only Data Scientist. After that was a success we moved on to companies names and eliminated duplicate companies names, the splitting method was used to have the code be succesful. 
 
-![image](https://user-images.githubusercontent.com/82185341/126244962-b551178b-f948-43b4-81d3-26e43214c233.png)
-![image](https://user-images.githubusercontent.com/82185341/126254819-c431d9f2-7381-4225-8db4-3e49cc9e746e.png)
+![image](C:\Users\sreek\Desktop\13_Project_2\repeating_names.png)
+![image](C:\Users\sreek\Desktop\13_Project_2\data_scientist.png)
 
 From this data we were able to show the data scientist job posting by company names.
 
 
 2. From Glassdoor the data was combined based in companies names and merged to see the salaries. 
 
-![image](https://user-images.githubusercontent.com/82185341/126245641-515edaca-d66d-44c1-8b64-31b287ae8983.png)
+![image](C:\Users\sreek\Desktop\13_Project_2\merged_df.png)
 
 
 3. After merging the two databases we were able to match out of 2894 companies 73 companies and their salaries.
@@ -80,7 +80,7 @@ Contains loaded data from glassdoor csv. (Company Name as pk, and Salary Range)
 
 
 
-![image](https://user-images.githubusercontent.com/82185341/126254575-3e47dfe3-0bc3-4ef4-8e0f-c39fbcba2033.png)
+![Data_Model_13_project_2](sql_files\Data_Model_13_project_2.PNG)
 
 
 
